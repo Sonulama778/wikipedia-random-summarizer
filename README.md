@@ -6,13 +6,13 @@ This Python project fetches and summarizes random Wikipedia articles using the `
 ### Folder Structure:
 ```
 Wikipedia-Random-Summary/
-├── data/
-│   └── history.txt
-├── src/
-│   └── wiki_summary.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+- data/
+   └── history.txt
+- src/
+   └── wiki_summary.py
+- README.md
+- requirements.txt
+
 ```
 
 ### README.md
