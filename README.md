@@ -104,3 +104,7 @@ for i in range(ARTICLE_COUNT):
 
 print(f"✅ Done! Summaries saved to {history_file}")
 ```
+## 🔗 Project Link
+
+Check out the full code on GitHub:  
+[GitHub Repo – Wikipedia Random Article Summarizer](https://github.com/Sonulama778/wikipedia-random-summarizer)
