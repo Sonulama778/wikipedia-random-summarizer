@@ -40,11 +40,11 @@ This Python project fetches and summarizes random Wikipedia articles using the `
 ## Getting Started
 1. Clone the repository
 2. Install dependencies:
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 3. Run the script:
-   ```bash
+   ```
    python src/wiki_summary.py
    ```
 
@@ -58,11 +58,6 @@ Danny Dereck Prince (born 14 March 1986) is an Indian cricketer...
 ⚠️ Disambiguation error for topic: Wake Island
 Suggested options: ['Wake Island (film)', ...]
 ```
-
-## Optional Enhancements
-- Add CLI flag to fetch specific topic
-- Convert to GUI with Tkinter or web app using Streamlit
-- Schedule to run daily and email summary
 
 ## License
 MIT
